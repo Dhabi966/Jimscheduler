@@ -4,7 +4,7 @@ body {
   line-height: 1;
 }
 
-textarea {
+textarea{
   background: transparent;
   border: none;
   resize: none;
@@ -18,14 +18,14 @@ textarea {
   background-color: transparent;
   color: black;
   border-radius: 0;
-  border-bottom: 25px solid black;
+  border-bottom: 25px solid orange;
 }
 
-.description {
+.description{
   white-space: pre-wrap;
 }
 
-.time-block {
+.time-block{
   text-align: center;
   border-radius: 15px;
 }
