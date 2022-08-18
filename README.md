@@ -35,5 +35,5 @@ THEN the saved events persist
 ## Links 
 Github repo: https://github.com/Dhabi966/Jimscheduler
 
-Github Pages: 
+Github Pages: https://dhabi966.github.io/Jimscheduler/
 
