@@ -2,7 +2,7 @@
 
 ## Application Description
 
-This is a basic day planner app that provides standard business hours of 9am - 5pm for a specific date, which matches the current day that the user opens the app. The app uses moment.js to handle time. The app also allows the user to enter and save text into any description field that has a class of future. The data will be saved to the local storage of the browser. The past hours are highlighted gray, the current hour in orange, and future hours light blue.
+This is a basic day planner app that provides standard business hours of 9am - 5pm for a specific date, which matches the current day that the user opens the app. The app uses moment.js to handle time. The app also allows the user to enter and save text into any description field that has a class of future. The data will be saved to the local storage of the browser. The past hours are highlighted gray, the current hour in orange, and future hours in light blue.
 
 ## User Story
 
