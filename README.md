@@ -33,6 +33,7 @@ THEN the saved events persist
 ![image](https://user-images.githubusercontent.com/108851005/185468153-17435c24-e296-444e-b548-614dfb80abb8.png)
 
 ## Links 
-Github repo: 
-Github Pages
+Github repo: https://github.com/Dhabi966/Jimscheduler
+
+Github Pages: 
 
